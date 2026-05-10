@@ -11,9 +11,9 @@ class Reserva:
         self.duracion = duracion
         self.estado = "Pendiente"
 
-    # =========================
+
     # CONFIRMAR RESERVA
-    # =========================
+ 
 
     def confirmar_reserva(self):
 
@@ -38,9 +38,9 @@ class Reserva:
             registrar_log(f"ERROR RESERVA: {e}")
             raise
 
-    # =========================
+  
     # CANCELAR RESERVA
-    # =========================
+  
 
     def cancelar_reserva(self):
 
@@ -65,9 +65,9 @@ class Reserva:
             registrar_log(f"ERROR CANCELACIÓN: {e}")
             raise
 
-    # =========================
+
     # PROCESAR RESERVA
-    # =========================
+  
 
     def procesar_reserva(self):
 
@@ -95,9 +95,9 @@ class Reserva:
                 "Finalizó intento de procesamiento"
             )
 
-    # =========================
+    
     # MOSTRAR INFORMACIÓN
-    # =========================
+
 
     def mostrar_reserva(self):
 
