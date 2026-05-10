@@ -1,9 +1,7 @@
 from excepciones.excepciones_personalizadas import ErrorReserva
 from utils.logger import registrar_log
 
-
-# CLASE RESERVA
-
+# Método encargado de confirmar reservas
 class Reserva:
 
     def __init__(self, cliente, servicio, duracion):
