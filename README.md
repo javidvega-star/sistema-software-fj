@@ -22,5 +22,7 @@ Sistema orientado a objetos desarrollado en Python para la gestión de clientes,
 - Visual Studio Code
 - GitHub
 
-## Autor
+## Autores
 Javid Daniel vega iseda
+Alejandro javier De Angel luquez
+Kevid Andres Ordosgoitia herrera
