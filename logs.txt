@@ -1,0 +1,16 @@
+[2026-05-10 17:56:44] -> Nombre asignado correctamente: Javid Daniel vega iseda
+[2026-05-10 17:56:44] -> Documento asignado correctamente: 123456789
+[2026-05-10 17:56:44] -> Correo asignado correctamente: javi@gmail.com
+[2026-05-10 17:56:44] -> ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-10 17:56:44] -> ReservaSala creada correctamente: Sala Premium
+[2026-05-10 17:56:44] -> ERROR SERVICIO: Las horas deben ser mayores a cero
+[2026-05-10 17:56:44] -> AlquilerEquipo creado: Laptop Gamer
+[2026-05-10 17:56:44] -> ERROR ALQUILER: Los días deben ser mayores a cero
+[2026-05-10 17:56:44] -> Asesoría creada correctamente: Asesoría IA
+[2026-05-10 17:56:44] -> ERROR ASESORÍA: Nivel de asesoría inválido
+[2026-05-10 17:56:44] -> Reserva confirmada para Javid Daniel vega iseda
+[2026-05-10 17:56:44] -> Procesamiento realizado correctamente
+[2026-05-10 17:56:44] -> Finalizó intento de procesamiento
+[2026-05-10 17:56:44] -> ERROR RESERVA: La duración debe ser mayor a cero
+[2026-05-10 17:56:44] -> Finalizó intento de procesamiento
+[2026-05-10 17:56:44] -> El sistema finalizó correctamente
